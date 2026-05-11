@@ -1,0 +1,2 @@
+Ticker,Price,SMA_50,Decision,Reason
+TSLA,446.93,388.41,SELL,Price is 5% above the 50-day SMA.

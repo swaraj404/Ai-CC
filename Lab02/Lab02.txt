@@ -1,0 +1,6 @@
+Title of the Assignment: A* algorithm for 8 puzzle problem
+Problem statement: Implement A star Algorithm for any game search problem.
+
+Objective:
+➢ To understand the concept of Informed search techniques.
+➢ To implement A* algorithm for 8 puzzle game problem.
